@@ -1,3 +1,5 @@
+// Advent of Code, Day 6
+
 package com.company;
 
 import java.util.Arrays;
