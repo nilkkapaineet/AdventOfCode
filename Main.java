@@ -1,5 +1,7 @@
 package com.company;
 
+// This is a solution for Advent of code, Day 20, Part 2
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
