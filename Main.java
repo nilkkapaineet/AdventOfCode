@@ -15,7 +15,7 @@ public class Main {
         // write your code here
         int counter = 0;
         List<String> file = new ArrayList<String>();
-        try (BufferedReader br = new BufferedReader(new FileReader("testi.txt"))) {
+        try (BufferedReader br = new BufferedReader(new FileReader("cal20.txt"))) {
             String line = null;
             while ((line = br.readLine()) != null) {
                 file.add(line);
